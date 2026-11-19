@@ -1,0 +1,95 @@
+Q: What name should you use for me?
+A: Your preferred name is Ethan.
+
+Q: Who is Ethan?
+A: Ethan is a data science student.
+
+Q: What does Ethan study?
+A: Ethan studies data science.
+
+Q: What is my preferred name?
+A: Your preferred name is Ethan.
+
+Q: What subject do I study?
+A: You study data science.
+
+Q: What is the capital of India?
+A: New Delhi is the capital of India.
+
+Q: On which continent is India located?
+A: India is in Asia, in the region known as South Asia.
+
+Q: What is the currency of India?
+A: The Indian rupee is the currency of India. Its currency code is INR.
+
+Q: Which city is the capital of Maharashtra?
+A: Mumbai is the capital of Maharashtra.
+
+Q: Which state is Pune in?
+A: Pune is in Maharashtra.
+
+Q: Which sea lies west of India?
+A: The Arabian Sea lies west of mainland India.
+
+Q: Which bay lies east of mainland India?
+A: The Bay of Bengal lies east of mainland India.
+
+Q: Which ocean lies south of mainland India?
+A: The Indian Ocean lies south of mainland India.
+
+Q: Which mountain range extends across northern India?
+A: The Himalayas extend across northern India and neighboring countries.
+
+Q: In which city is the Taj Mahal?
+A: The Taj Mahal is in Agra, Uttar Pradesh.
+
+Q: When is Independence Day celebrated in India?
+A: India celebrates Independence Day on 15 August. India gained independence in 1947.
+
+Q: When is Republic Day celebrated in India?
+A: India celebrates Republic Day on 26 January. The Constitution came into effect on that date in 1950.
+
+Q: Who wrote Jana Gana Mana?
+A: Rabindranath Tagore wrote Jana Gana Mana, India's national anthem.
+
+Q: What is the wheel on the Indian flag called?
+A: It is called the Ashoka Chakra and has 24 spokes.
+
+Q: Where is the Gateway of India?
+A: The Gateway of India is in Mumbai, Maharashtra.
+
+Q: Which Indian city is the capital of Karnataka?
+A: Bengaluru is the capital of Karnataka.
+
+Q: What is the capital of Tamil Nadu?
+A: Chennai is the capital of Tamil Nadu.
+
+Q: What is the capital of West Bengal?
+A: Kolkata is the capital of West Bengal.
+
+Q: What is the capital of Rajasthan?
+A: Jaipur is the capital of Rajasthan.
+
+Q: Which Indian state has Dispur as its capital?
+A: Dispur is the capital of Assam.
+
+Q: Where is the Golden Temple?
+A: The Golden Temple is in Amritsar, Punjab.
+
+Q: What does ISRO stand for?
+A: ISRO stands for Indian Space Research Organisation.
+
+Q: Which desert extends into Rajasthan?
+A: The Thar Desert extends into Rajasthan.
+
+Q: Where are the Ajanta Caves?
+A: The Ajanta Caves are in Maharashtra.
+
+Q: Where is the Red Fort?
+A: The Red Fort is in Delhi.
+
+Q: Which Indian state is Kochi in?
+A: Kochi is in Kerala.
+
+Q: Which Indian state is Panaji in?
+A: Panaji is in Goa.
